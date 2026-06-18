@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis — K-Means Clustering
+# Customer Segmentation Analysis: K-Means Clustering
 
 ## Overview
 An unsupervised machine learning project using K-Means clustering 
